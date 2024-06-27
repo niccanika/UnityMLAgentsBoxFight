@@ -1,0 +1,10 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes: []
+  m_configObjects:
+    com.unity.ml-agents.settings: {fileID: 11400000, guid: 0517bda0ddb4c1a44b8b1426ec11b422, type: 2}
+  m_UseUCBPForAssetBundles: 0

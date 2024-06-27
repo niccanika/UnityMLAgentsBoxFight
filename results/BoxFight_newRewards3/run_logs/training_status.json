@@ -1,0 +1,39 @@
+{
+    "Fighter": {
+        "checkpoints": [
+            {
+                "steps": 499971,
+                "file_path": "results\\BoxFight_newRewards3\\Fighter\\Fighter-499971.onnx",
+                "reward": null,
+                "creation_time": 1716984727.7222178,
+                "auxillary_file_paths": [
+                    "results\\BoxFight_newRewards3\\Fighter\\Fighter-499971.pt"
+                ]
+            },
+            {
+                "steps": 500291,
+                "file_path": "results\\BoxFight_newRewards3\\Fighter\\Fighter-500291.onnx",
+                "reward": null,
+                "creation_time": 1716984727.7977908,
+                "auxillary_file_paths": [
+                    "results\\BoxFight_newRewards3\\Fighter\\Fighter-500291.pt"
+                ]
+            }
+        ],
+        "elo": 1166.6805274075875,
+        "final_checkpoint": {
+            "steps": 500291,
+            "file_path": "results\\BoxFight_newRewards3\\Fighter.onnx",
+            "reward": null,
+            "creation_time": 1716984727.7977908,
+            "auxillary_file_paths": [
+                "results\\BoxFight_newRewards3\\Fighter\\Fighter-500291.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0.dev0",
+        "torch_version": "2.3.0+cpu"
+    }
+}
